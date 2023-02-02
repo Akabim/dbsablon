@@ -1792,6 +1792,10 @@ body {
     height: 300px;
   }
 
+  .lg\:h-\[530px\] {
+    height: 530px;
+  }
+
   .lg\:w-\[200px\] {
     width: 200px;
   }
@@ -1834,6 +1838,10 @@ body {
 
   .lg\:w-\[400px\] {
     width: 400px;
+  }
+
+  .lg\:w-\[618px\] {
+    width: 618px;
   }
 
   .lg\:max-w-full {
