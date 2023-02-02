@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "name": "web-dbsablon",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "node index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
