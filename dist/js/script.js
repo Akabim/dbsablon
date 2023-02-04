@@ -16,3 +16,23 @@ window.onscroll = function () {
     header.classList.remove("navbar-fixed");
   }
 };
+
+const swiper = new Swiper(".swiper", {
+  // Optional parameters
+  direction: "horizontal",
+  loop: true,
+  speed: 400,
+  spaceBetween: 12,
+  centerSlide: true,
+  autoplay: {
+    delay: 3000,
+  },
+
+  // If we need pagination
+
+  // Navigation arrows
+  navigation: {
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
+  },
+});
