@@ -7,6 +7,6 @@ module.exports = {
         main: "#0045DB",
       },
     },
-    plugins: [require("tailwind-scrollbar")],
+    plugins: [],
   },
 };
